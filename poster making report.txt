@@ -1,0 +1,61 @@
+Poster Making on Cyberbullying Using Canva
+
+This repository contains resources and guidelines for creating an impactful poster on cyberbullying using Canva.
+ The goal is to raise awareness about the harmful effects of cyberbullying and promote safe online behavior.
+
+ Table of Contents
+
+1. [Introduction]
+2. [Why Cyberbullying Awareness?]
+3. [Getting Started with Canva]
+4. [Designing the Poster]
+5. [Resources]
+
+
+Introduction
+
+Cyberbullying is a significant issue in today's digital age. 
+This project aims to create a visually appealing and informative poster to educate individuals about the dangers of cyberbullying and how to prevent it.
+
+ Why Cyberbullying Awareness?
+
+Cyberbullying can have severe emotional and psychological effects on victims.
+ Raising awareness through posters can help educate people about recognizing, preventing, and responding to cyberbullying incidents. 
+A well-designed poster can effectively convey important messages and encourage positive online behavior.
+
+Getting Started with Canva
+
+Canva is an easy-to-use graphic design tool that allows users to create professional-quality designs. Follow these steps to get started:
+
+1. *Sign Up/Log In*: Create a free account on [Canva](https://www.canva.com/).
+2. *Choose a Template*: Search for poster templates or start from scratch.
+3. *Customize*: Use Canva's tools to customize your poster with text, images, and other elements.
+4. *Save and Share*: Save your design and download it in your preferred format.
+
+Designing the Poster
+
+Here are some tips and guidelines for designing your cyberbullying awareness poster:
+
+1. *Title and Tagline*: Create a catchy title and a compelling tagline.
+2. *Visual Elements*: Use relevant images, icons, and colors that convey the seriousness of the topic.
+3. *Key Messages*: Include important information such as what cyberbullying is, its effects, and how to get help.
+4. *Contact Information*: Provide resources like helpline numbers, websites, and organizations that offer support.
+
+Example Content:
+
+- *Title*: "Stop Cyberbullying Now"
+- *Tagline*: "Let's create a safer online community."
+- *Key Messages*:
+  - What is Cyberbullying?
+  - The Impact of Cyberbullying
+  - How to Prevent Cyberbullying
+  - Getting Help: Resources and Contacts
+
+ Resources
+
+- [Canva](https://www.canva.com/) - Design tool
+- [StopBullying.gov](https://www.stopbullying.gov/cyberbullying/what-is-it) - Information on cyberbullying
+- [Cyberbullying Research Center](https://cyberbullying.org/) - Research and resources
+
+
+
